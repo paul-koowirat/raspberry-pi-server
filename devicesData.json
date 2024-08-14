@@ -1,0 +1,20 @@
+{
+  "esp32_1": {
+    "deviceName": "H_T_Sensor",
+    "deviceLocation": "LivingRoom",
+    "temperature": 24,
+    "humidity": 59,
+    "waterLevel": null,
+    "enabled": true,
+    "timestamp": "2024-08-13T15:10:59.933Z"
+  },
+  "esp32_2": {
+    "deviceName": "Level_Sensor",
+    "deviceLocation": "WaterTank1",
+    "temperature": null,
+    "humidity": null,
+    "waterLevel": 25,
+    "enabled": true,
+    "timestamp": "2024-08-13T15:29:15.877Z"
+  }
+}
